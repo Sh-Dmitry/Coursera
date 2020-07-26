@@ -1,8 +1,8 @@
 
 import requests
 
-API_KEY_YAN_WEATHER = '7df82de8-c6f1-4b05-8e3b-4c9b064ddcfa'
-API_KEY_YAN_GEO = '5e521ec3-ff98-40f5-ab93-af04011b09cf'
+API_KEY_YAN_WEATHER = ''
+API_KEY_YAN_GEO = ''
 
 
 class YandexWeatherApi:
